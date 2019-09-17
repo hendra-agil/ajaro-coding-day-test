@@ -10,4 +10,5 @@ Dimana data tersebut terdiri atas :
 4. Stok barang
 5. Harga barang
 6. Berat barang
+
 Di website ini anda dapat menambahkan data - data tersebut dan juga mengeditnya. Itulah sedikit gambaran dari website saya.
