@@ -11,4 +11,4 @@ Dimana data tersebut terdiri atas :
 5. Harga barang
 6. Berat barang
 
-Di website ini anda dapat menambahkan data - data tersebut dan juga mengeditnya. Itulah sedikit gambaran dari website saya.
+Di website ini anda dapat menambahkan, mengedit, dan juga menghapus data - data tersebut. Itulah sedikit gambaran dari website saya.
