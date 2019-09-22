@@ -1,6 +1,6 @@
 # Kelola Data Barang
 
-Website ini saya buat dengan menggunakan PHP, HTML, dan CSS. Saya masih menggunakan PHP Native(Prosedural). Untuk database saya menggunakan PhpMyAdmin.
+Website ini saya buat dengan menggunakan PHP, HTML, dan CSS. Saya menggunakan PHP Native(Prosedural). Untuk database saya menggunakan PhpMyAdmin.
 
 Didalam website ini, anda dapat mengelola sebuah data barang sederhana.
 Dimana data tersebut terdiri atas :
