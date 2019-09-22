@@ -41,7 +41,7 @@ while( $barang = mysqli_fetch_array($result) ) {
 
 <head>
     <title>Kelola Data Barang | Edit</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>

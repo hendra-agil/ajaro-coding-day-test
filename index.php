@@ -11,7 +11,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM barang ORDER BY id ASC");
 
 <head>
     <title>Kelola Data Barang</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
